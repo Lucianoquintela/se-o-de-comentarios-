@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seção de Comentarios</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js"defer></script>
+</head>
+
+<body>
+
+  <main>
+
+    <h2>Seçao de Comentários</h2>
+    <br>
+
+    <label>Email</label><br>
+    <input type="email" class="campoEmail" id="email">
+    <br><br>
+
+    <label >Comentário</label><br>
+    <textarea class="caixaDeTexto" id="caixaDeComentario"></textarea>
+    <br><br>
+
+    <button type="submit" class="botaoEnviar" onclick="botaoEnviar()">Enviar Comentário</button> 
+    <br><br>
+
+    <hr class="linha" color="black" width="99%">
+    
+    <div class="">
+        <p id="exibirEmail" class="email"></p>
+        <p id="exibirDataeHora" class="data"></p>
+        <p id="exibirComentario" class="comentario"></p>
+    </div>
+  </main>
+    
+</body>
+</html>

@@ -1,0 +1,59 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    font-family: poppins;
+}
+
+main{
+    width: 590px;
+    height: auto;
+    background-color: rgb(229, 233, 233);
+    margin-top:50px;
+    padding: 25px;
+   
+}
+
+.campoEmail{
+    width: 99%;
+    height: 35px;
+    margin-top:5px;
+    padding-left:10px ;
+}
+
+.caixaDeTexto{
+    width: 99%;
+    height: 85px;
+    margin-top:5px;
+    padding:10px ;
+ 
+}
+
+.botaoEnviar{
+  
+    width: 99%;
+    height: 40px;
+    cursor: pointer;
+}
+
+.email {
+    font-family: 'Poppins', sans-serif bold;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.data{
+    margin-top: 10px;
+}
+.comentario{
+    margin-top: 10px;
+}
