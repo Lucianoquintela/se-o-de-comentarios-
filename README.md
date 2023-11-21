@@ -2,7 +2,7 @@
 desafio do everson quase concluido  
 
 coisas a concertar:<br>
-- data aparece se apertar o botão enviar comentario antes de digitar o email e o comentario
+- data e hora aparece se apertar o botão enviar comentario antes de digitar o email e o comentario
 - data aparece errada
 
 coisas a adicionar:<br>
