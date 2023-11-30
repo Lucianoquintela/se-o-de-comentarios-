@@ -1,5 +1,5 @@
 # secao-de-comentarios-
-desafio do everson quase concluido  
+desafio do everson "quase concluido" 
 
 coisas a concertar:<br>
 - data e hora aparece se apertar o botão enviar comentario antes de digitar o email e o comentario
