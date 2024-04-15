@@ -57,3 +57,12 @@ main{
 .comentario{
     margin-top: 10px;
 }
+
+
+@media(max-width: 1280px) {
+
+    body {
+        background-color: rgb(229, 233, 233);
+    }
+
+}
